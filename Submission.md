@@ -41,17 +41,17 @@ cancer research.
 After the DNA is cut, CRISPR allows scientists to add, remove, or alter specific genes at the cut site. This enables the correction of genetic
 mutations, the knockout of certain genes, or the insertion of new genetic information, allowing for a range of applications from basic research to potential therapies. 
 
-#### 2) Identifying Disease Related Genes<a name="14"></a>
+#### 2) Identifying Disease Related Genes<a name="142"></a>
 MAGeCK is most commonly used in functional genomics to help identify genes that are essential for the survival of disease-causing cells
 like  cancer cells. By performing CRISPR screens on these cells and analyzing the data with MAGeCK, researchers can identify potential therapeutic target genes whose
 disruption could  selectively kill or inhibit cancer cells, leading to novel treatment approaches.
 
-#### 3) Synthetic Lethality Studies<a name="14"></a>
+#### 3) Synthetic Lethality Studies<a name="143"></a>
 MAGeCK is used to explore synthetic lethality, where the combination of two gene knockouts leads to cell death, but  neither gene alone is
 lethal. This method of approach is significant in cancer research as it is used for targeting genetic vulnerabilities specific to cancer cells. MAGeCK helps pinpoint gene
 pairs where one gene's knockout is lethal only in the presence of another knockout, offering a pathway for designing the targeted cancer treatments.
 
-#### 4) Functional Annotation of Genes in Biological Pathways<a name="14"></a>
+#### 4) Functional Annotation of Genes in Biological Pathways<a name="144"></a>
 MAGeCK can identify genes involved in specific cellular pathways by analyzing CRISPR screens under varying conditions,
 such as stress, nutrient deprivation, or immune challenges. This helps in mapping out the functions of less-understood genes and understanding how complex biological
 networks work, especially in diseases where these pathways are disrupted
