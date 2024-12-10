@@ -19,9 +19,8 @@ The first step involves creating a large-scale CRISPR library that contains guid
 
 In our population of cells, each cell contains a different knocked-out gene. Researchers can then take these modified cells and expose them to specific environmental conditions such as drug treatment or environmental stressors such as extreme heat, and observe how the gene knockouts affect cell survival, growth, or abnormal behavior in response. After the experiment has been completed (typically a general amount of time set by the researcher or upon observation of a specific result in the population of cells), researchers can sequence the remaining gRNAs to determine which genes were essential for survival or conferred resistance. 
 
-
-
-*Figure 1: CRISPR immune response workflow. Observe how the gene knockouts affect cell survival, growth, or abnormal behavior in response. After the experiment is completed, sequencing the remaining gRNAs helps identify which genes were essential for survival or conferred resistance.*
+<img src="CRISPR_Workflow.png" alt="CRISPR workflow" width="800" />
+*Figure 1: CRISPR workflow.*
 
 
 
