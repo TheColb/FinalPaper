@@ -21,7 +21,7 @@ In our population of cells, each cell contains a different knocked-out gene. Res
 
 <img src="CRISPR_Workflow.png" alt="CRISPR workflow" width="800" />
 
-*Figure 2:CRISPR workflow .*
+*Figure 2: CRISPR workflow*
 
 
 
