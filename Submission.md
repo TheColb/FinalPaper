@@ -16,7 +16,8 @@ CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a genome-e
 The first step involves creating a large-scale CRISPR library that contains guide RNAs (gRNAs) that target thousands of genes across the entire genome of the target organism. Each gRNA has been designed to guide the Cas9 enzyme and machinery to a specific gene and knock it out. Once this CRISPR library has been created, it can be introduced into a population of thousands of cells, typically using a viral delivery system. The goal here is that each cell takes up a unique gRNA, and thus in each cell, a different targeted gene is knocked out.
 
 In our population of cells, each cell contains a different knocked-out gene. Researchers can then take these modified cells and expose them to specific environmental conditions such as drug treatment or environmental stressors such as extreme heat, and observe how the gene knockouts affect cell survival, growth, or abnormal behavior in response. After the experiment has been completed (typically a general amount of time set by the researcher or upon observation of a specific result in the population of cells), researchers can sequence the remaining gRNAs to determine which genes were essential for survival or conferred resistance. 
-![CRISPR Immune Response](images/crispr_immune_response.jpg)
+![CRISPR Immune Response](crispr_immune_response.jpg)
+
 
 
 ## 1.3 MAGeCK
