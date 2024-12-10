@@ -13,6 +13,8 @@ CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a genome-e
 
 <img src="crispr_overview.png" alt="CRISPR Overview" width="800" />
 
+*Figure 1: CRISPR Overview.*
+
 
 ## 1.2 CRISPR Workflow
 The first step involves creating a large-scale CRISPR library that contains guide RNAs (gRNAs) that target thousands of genes across the entire genome of the target organism. Each gRNA has been designed to guide the Cas9 enzyme and machinery to a specific gene and knock it out. Once this CRISPR library has been created, it can be introduced into a population of thousands of cells, typically using a viral delivery system. The goal here is that each cell takes up a unique gRNA, and thus in each cell, a different targeted gene is knocked out.
