@@ -4,7 +4,6 @@
 - [CRISPR Workflow](#12-crispr-workflow)
 - [MAGeCK](#13-mageck)
 - [Applications](#14-applications)
-- [Applications](#14)<br>
    - [Gene Therapy in Design Models](#141)<br>
    - [Identifying Disease Related Genes](#142)<br>
    - [Synthetic Lethality Studies](#143)<br>
