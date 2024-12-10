@@ -30,6 +30,7 @@ Going into more detail, the tool uses a negative binomial model to handle the co
 
 
 ![MAGeCK](MAGeCK_overview.webp)
+
 *Figure 2: MAGeCK overview. This tool analyzes CRISPR screen data and helps identify genes with significant impacts on a phenotype such as drug resistance or cell survival.*
 
 
