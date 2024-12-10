@@ -11,7 +11,8 @@
 # 1.1 CRISPR
 CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a genome-editing tool that allows researchers to make precise changes to DNA in cells. The most common type of CRISPR utilizes the enzyme Cas-9 to target specific DNA regions, where it cuts the DNA and creates a “double-stranded break” to facilitate edits, insertions, or deletions of the DNA. Let’s take a closer dive into the workflow of the CRISPR machinery and how it is able to accurately target specific DNA sequences and make changes quickly yet effectively.
 
-![CRISPR Overview](crispr_overview.png)
+<img src="crispr_overview.png" alt="CRISPR Overview" width="800" />
+
 
 ## 1.2 CRISPR Workflow
 The first step involves creating a large-scale CRISPR library that contains guide RNAs (gRNAs) that target thousands of genes across the entire genome of the target organism. Each gRNA has been designed to guide the Cas9 enzyme and machinery to a specific gene and knock it out. Once this CRISPR library has been created, it can be introduced into a population of thousands of cells, typically using a viral delivery system. The goal here is that each cell takes up a unique gRNA, and thus in each cell, a different targeted gene is knocked out.
