@@ -6,7 +6,7 @@
 - [Applications](#14-applications)
 - [Applications](#14)<br>
    - [Gene Therapy in Design Models](#141)<br>
-   - Identifying Disease Related Genes](#142)<br>
+   - [Identifying Disease Related Genes](#142)<br>
    - [Synthetic Lethality Studies](#143)<br>
    - [Functional Annotation of Genes in Biological Pathways](#144)<br>
 # 1.1 CRISPR
