@@ -4,10 +4,10 @@
 - [CRISPR Workflow](#12-crispr-workflow)
 - [MAGeCK](#13-mageck)
 - [Applications](#14-applications)
-   - [Gene Therapy in Design Models](#141)<br>
-   - [Identifying Disease Related Genes](#142)<br>
-   - [Synthetic Lethality Studies](#143)<br>
-   - [Functional Annotation of Genes in Biological Pathways](#144)<br>
+   - [Gene Therapy in Design Models](#14-applications)<br>
+   - [Identifying Disease Related Genes](#14-applications)<br>
+   - [Synthetic Lethality Studies](#14-applications)<br>
+   - [Functional Annotation of Genes in Biological Pathways](#14-applications)<br>
 # 1.1 CRISPR
 CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a genome-editing tool that allows researchers to make precise changes to DNA in cells. The most common type of CRISPR utilizes the enzyme Cas-9 to target specific DNA regions, where it cuts the DNA and creates a “double-stranded break” to facilitate edits, insertions, or deletions of the DNA. Let’s take a closer dive into the workflow of the CRISPR machinery and how it is able to accurately target specific DNA sequences and make changes quickly yet effectively.
 
