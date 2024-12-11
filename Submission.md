@@ -42,7 +42,7 @@ Going into more detail, the tool uses a negative binomial model to handle the co
 
 ![MAGeCK](MAGeCK_overview.webp)
 
-*Figure 2: MAGeCK overview.*
+*Figure 3: MAGeCK overview.*
 
 
 ## 1.4 Applications
