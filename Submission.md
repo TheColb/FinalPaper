@@ -65,6 +65,6 @@ MAGeCK can identify genes involved in specific cellular pathways by analyzing CR
 # References
 Addgene. "CRISPR Guide: A Resource for Understanding and Using CRISPR Technology." Addgene, https://www.addgene.org/guides/crispr/.
 
-Hsu, Patrick D., Eric S. Lander, and Feng Zhang. "Development and Applications of CRISPR-Cas9 for Genome Engineering." Genome Biology, vol. 15, no. 8, 2014, article no. 554, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4.
+Li, W., Xu, H., Xiao, T. et al. MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens. Genome Biol 15, 554 (2014). https://doi.org/10.1186/s13059-014-0554-4
 
 Novatein Biosciences. "CRISPR Explained." Novatein Biosciences, https://novateinbio.com/content/96-crispr-explained.
