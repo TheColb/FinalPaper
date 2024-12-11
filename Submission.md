@@ -58,3 +58,11 @@ MAGeCK is used to explore synthetic lethality, where the combination of two gene
 
 ### 4) Functional Annotation of Genes in Biological Pathways
 MAGeCK can identify genes involved in specific cellular pathways by analyzing CRISPR screens under varying conditions, such as stress, nutrient deprivation, or immune challenges. This helps in mapping out the functions of less-understood genes and understanding how complex biological networks work, especially in diseases where these pathways are disrupted.
+
+
+# References
+Addgene. "CRISPR Guide: A Resource for Understanding and Using CRISPR Technology." Addgene, https://www.addgene.org/guides/crispr/.
+
+Hsu, Patrick D., Eric S. Lander, and Feng Zhang. "Development and Applications of CRISPR-Cas9 for Genome Engineering." Genome Biology, vol. 15, no. 8, 2014, article no. 554, https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0554-4.
+
+Novatein Biosciences. "CRISPR Explained." Novatein Biosciences, https://novateinbio.com/content/96-crispr-explained.
